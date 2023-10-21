@@ -1,9 +1,9 @@
 # Repositório com o 1º Tech Challenge da FIAP PosTech 
 
-Este trabalho é composto por 3 partes principais, descritas abaixo:
-- Apresentação (em formato .ppt) com a análise das exportações
-- Arquivo Jupyter Notebook (em formato .ipynb) contendo todo o código Python responsável pelo carregamento, tratamento e geração dos gráficos
-- App dentro do Streamlit com um dashboard apresentando os resultados
+Este trabalho é composto por 3 partes, descritas abaixo:
+- Apresentação (em formato .ppt) com a análise das exportações (caminho: Apresentação Fase 1.pptx)
+- Arquivo Jupyter Notebook (em formato .ipynb) contendo todo o código Python responsável pelo carregamento, tratamento e geração dos gráficos (caminho: notebook/Fase_1_Tech_Challenge.ipynb)
+- App Streamlit com um dashboard apresentando os resultados (caminho: streamlit/main.py)
 
 ## Apresentação
 
